@@ -1,2 +1,2 @@
 # pic
- picture bed
+ 图床
